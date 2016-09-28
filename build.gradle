@@ -1,4 +1,4 @@
-group 'java-test-example'
+group 'java-tdd-exercise'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
