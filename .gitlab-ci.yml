@@ -26,7 +26,7 @@ build:
   allow_failure: false
   artifacts:
     paths:
-    - build/*.jar
+    - build/libs/*.jar
 # Use the generated build output to run the tests.
 test:
   stage: test
